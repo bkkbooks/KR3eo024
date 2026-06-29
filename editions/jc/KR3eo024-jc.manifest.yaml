@@ -1,0 +1,166 @@
+canonical_identifier: bkk:krp/KR3eo024/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eo024/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 養生月覽
+  identifiers:
+    krp: KR3eo024
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo024.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3eo024_001-jc.yaml, hash: 'sha256:3f41a36151f49db2df398daf431f5c5bb860b34e6ffc89f1970ea20579b0a9be'}
+  - {seq: 3, filename: KR3eo024_003-jc.yaml, hash: 'sha256:ea1ef18fbd4ebe1055cee80a37d5c800cdbb7178d1a0c9e1d5139cda4a8236b8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eo024_001-jc.markers.yaml, hash: 'sha256:a245aa93276206e395ed901987d0e0c363fe746d889d8c7671ce4b941b15839c'}
+  - {seq: 3, role: markers, filename: assets/KR3eo024_003-jc.markers.yaml, hash: 'sha256:d941ae627c4fab7e912064848b565b338e77b0943a83d3c122c94440beb97539'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eo024_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 9385
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eo024_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 2565
+  label: 正月
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo024_jc_001-d2d3
+    span:
+    - body
+    - 2565
+    - 3578
+  label: 二月
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo024_jc_001-d2d4
+    span:
+    - body
+    - 3578
+    - 5021
+  label: 三月
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo024_jc_001-d2d5
+    span:
+    - body
+    - 5021
+    - 5958
+  label: 四月
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo024_jc_001-d2d6
+    span:
+    - body
+    - 5958
+    - 8578
+  label: 五月
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eo024_jc_001-d2d7
+    span:
+    - body
+    - 8578
+    - 9385
+  label: 六月
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo024_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 6377
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eo024_jc_003-d3d2
+    span:
+    - body
+    - 2
+    - 1727
+  label: 七月
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo024_jc_003-d3d3
+    span:
+    - body
+    - 1727
+    - 2501
+  label: 八月
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo024_jc_003-d3d4
+    span:
+    - body
+    - 2501
+    - 3288
+  label: 九月
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo024_jc_003-d3d5
+    span:
+    - body
+    - 3288
+    - 4078
+  label: 十月
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo024_jc_003-d3d6
+    span:
+    - body
+    - 4078
+    - 4788
+  label: 十一月
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eo024_jc_003-d3d7
+    span:
+    - body
+    - 4788
+    - 6377
+  label: 十二月
+  type: section
+  level: 2
+hash: sha256:ef5b72f3bc894da1e928c70cc55ef694401e00755c6dd582756d75e20f34c1e3
